@@ -1,0 +1,8 @@
+{
+	// Apply to weapons
+	"Weapon": true,
+	// Apply to armor
+	"Armor": true,
+	// If this is true, you'll only get the perfect repair effect from repair kits.
+	"RestrictPerfectRepairToKits": false
+}
