@@ -4,5 +4,9 @@
 	// Apply to armor
 	"Armor": true,
 	// If this is true, you'll only get the perfect repair effect from repair kits.
-	"RestrictPerfectRepairToKits": false
+	"RestrictPerfectRepairToKits": false,
+	// If this is true, buffChance will be applied and decide if the repair results in a buff applied
+	"ModifyBuffChance": false,
+	// Chance for a buff to be applied, 0.0 means 0%, while 1.0 means 100% chance.
+	"BuffChance": 1.0
 }
